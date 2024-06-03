@@ -1,0 +1,24 @@
+{
+  "name": "graphqldevelop-client",
+  "version": "1.0.0",
+  "description": "A simple GraphQL client for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kostiuchenkomykhailo/graphqldevelop-client.git"
+  },
+  "keywords": [
+    "graphql",
+    "client",
+    "fetch"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
+
